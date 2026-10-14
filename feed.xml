@@ -10,7 +10,7 @@
     <description>Papers Patrick is reading, turned into two-host podcast episodes. In each episode, Alex and Jordan unpack one paper — what it argues, how the argument works, and where it is vulnerable.</description>
     <language>en-us</language>
     <copyright>Patrick Doyle</copyright>
-    <lastBuildDate>Wed, 14 Oct 2026 14:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 22:48:00 GMT</lastBuildDate>
 
     <itunes:author>Patrick Doyle</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://patrickcdoyle.github.io/listening-list/IMG_5818.jpeg"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>OCEAN Wealth Profiles</title>
+      <description>Maya and Theo unpack Exley, Doyle, Grable and Campbell's latent profile analysis of Big Five personality and money — the Undercontrolled, the Resilient, and the Overcontrolled, and what each profile earns, risks, and feels. Yes, that Doyle.</description>
+      <itunes:summary>Maya and Theo unpack Exley, Doyle, Grable and Campbell's latent profile analysis of Big Five personality and money — the Undercontrolled, the Resilient, and the Overcontrolled, and what each profile earns, risks, and feels. Yes, that Doyle.</itunes:summary>
+      <itunes:author>Patrick Doyle</itunes:author>
+      <pubDate>Wed, 14 Oct 2026 22:48:00 GMT</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/557637597430018/d3873922-c9a8-5e6a-bd84-17c89484f48c/ep-7e4fd81c-7336-4638-bcfe-0c620532f546.mp3" length="5655589" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-7e4fd81c-7336-4638-bcfe-0c620532f546</guid>
+      <itunes:duration>11:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 
     <item>
       <title>Existence Is Evidence of Immortality</title>
