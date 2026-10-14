@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Patrick's Listening List</title>
+    <link>https://patrickcdoyle.github.io/listening-list/</link>
+    <atom:link href="https://patrickcdoyle.github.io/listening-list/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Papers Patrick is reading, turned into two-host podcast episodes. In each episode, Alex and Jordan unpack one paper — what it argues, how the argument works, and where it is vulnerable.</description>
+    <language>en-us</language>
+    <copyright>Patrick Doyle</copyright>
+    <lastBuildDate>Wed, 14 Oct 2026 14:12:00 GMT</lastBuildDate>
+
+    <itunes:author>Patrick Doyle</itunes:author>
+    <itunes:owner>
+      <itunes:name>Patrick Doyle</itunes:name>
+      <itunes:email>patrickdoyle412@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:summary>Papers Patrick is reading, turned into two-host podcast episodes. In each episode, Alex and Jordan unpack one paper — what it argues, how the argument works, and where it is vulnerable.</itunes:summary>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Philosophy"/>
+    </itunes:category>
+    <itunes:image href="https://patrickcdoyle.github.io/listening-list/cover.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>Existence Is Evidence of Immortality</title>
+      <description>Alex and Jordan unpack Michael Huemer's paper arguing that your being alive right now is Bayesian evidence you will be reincarnated — infinite time, Poincaré recurrence, permissive theories of persons, and two very diabolical demons.</description>
+      <itunes:summary>Alex and Jordan unpack Michael Huemer's paper arguing that your being alive right now is Bayesian evidence you will be reincarnated — infinite time, Poincaré recurrence, permissive theories of persons, and two very diabolical demons.</itunes:summary>
+      <itunes:author>Patrick Doyle</itunes:author>
+      <pubDate>Wed, 14 Oct 2026 14:12:00 GMT</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/557637597430018/d3873922-c9a8-5e6a-bd84-17c89484f48c/ep-69e9ab5d-b3e9-4b96-96b5-a76df947598c.mp3" length="6455653" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-69e9ab5d-b3e9-4b96-96b5-a76df947598c</guid>
+      <itunes:duration>13:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Digital Twins Are Funhouse Mirrors</title>
+      <description>Alex and Jordan unpack a Science Advances mega-study testing whether AI digital twins of individuals actually predict human behavior, and the five systematic distortions the researchers found.</description>
+      <itunes:summary>Alex and Jordan unpack a Science Advances mega-study testing whether AI digital twins of individuals actually predict human behavior, and the five systematic distortions the researchers found.</itunes:summary>
+      <itunes:author>Patrick Doyle</itunes:author>
+      <pubDate>Wed, 09 Sep 2026 20:05:45 GMT</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/557637597430018/d3873922-c9a8-5e6a-bd84-17c89484f48c/ep-76976305-45c7-4978-887c-0806fff5a442.mp3" length="3845221" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-76976305-45c7-4978-887c-0806fff5a442</guid>
+      <itunes:duration>8:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
