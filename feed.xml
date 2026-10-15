@@ -10,7 +10,7 @@
     <description>Papers Patrick is reading, turned into two-host podcast episodes. In each episode, Alex and Jordan unpack one paper — what it argues, how the argument works, and where it is vulnerable.</description>
     <language>en-us</language>
     <copyright>Patrick Doyle</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 15:28:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 18:04:00 GMT</lastBuildDate>
 
     <itunes:author>Patrick Doyle</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://patrickcdoyle.github.io/listening-list/IMG_5818.jpeg"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>How to Build Your Dream Life</title>
+      <description>Alex and Jordan unpack Jay Yang's permissionless playbook — help the people who have the life you want, audit their problems, pitch with proof of work — and stress-test it for survivorship and what happens when everyone copies it.</description>
+      <itunes:summary>Alex and Jordan unpack Jay Yang's permissionless playbook — help the people who have the life you want, audit their problems, pitch with proof of work — and stress-test it for survivorship and what happens when everyone copies it.</itunes:summary>
+      <itunes:author>Patrick Doyle</itunes:author>
+      <pubDate>Thu, 15 Oct 2026 18:04:00 GMT</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/557637597430018/d3873922-c9a8-5e6a-bd84-17c89484f48c/ep-aead5dd0-9c89-4e9b-91f9-47687a79de01.mp3" length="3751717" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-aead5dd0-9c89-4e9b-91f9-47687a79de01</guid>
+      <itunes:duration>7:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 
     <item>
       <title>You Are Not Broken, You Are Dysregulated</title>
