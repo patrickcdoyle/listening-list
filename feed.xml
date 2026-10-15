@@ -10,7 +10,7 @@
     <description>Papers Patrick is reading, turned into two-host podcast episodes. In each episode, Alex and Jordan unpack one paper — what it argues, how the argument works, and where it is vulnerable.</description>
     <language>en-us</language>
     <copyright>Patrick Doyle</copyright>
-    <lastBuildDate>Wed, 14 Oct 2026 22:48:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 10:11:00 GMT</lastBuildDate>
 
     <itunes:author>Patrick Doyle</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://patrickcdoyle.github.io/listening-list/IMG_5818.jpeg"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>How to Build Wealth as a Career Person</title>
+      <description>Alex and Jordan unpack Asher Adeniyi's argument that a salaried career, run like an engine, is a reliable path to wealth — career capital, the five forms of capital, and converting a salary into ownership.</description>
+      <itunes:summary>Alex and Jordan unpack Asher Adeniyi's argument that a salaried career, run like an engine, is a reliable path to wealth — career capital, the five forms of capital, and converting a salary into ownership.</itunes:summary>
+      <itunes:author>Patrick Doyle</itunes:author>
+      <pubDate>Thu, 15 Oct 2026 10:11:00 GMT</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/557637597430018/d3873922-c9a8-5e6a-bd84-17c89484f48c/ep-279ef57f-856e-4828-8e64-ae062033c308.mp3" length="5393893" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-279ef57f-856e-4828-8e64-ae062033c308</guid>
+      <itunes:duration>11:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 
     <item>
       <title>OCEAN Wealth Profiles</title>
