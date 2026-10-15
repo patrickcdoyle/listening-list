@@ -10,7 +10,7 @@
     <description>Papers Patrick is reading, turned into two-host podcast episodes. In each episode, Alex and Jordan unpack one paper — what it argues, how the argument works, and where it is vulnerable.</description>
     <language>en-us</language>
     <copyright>Patrick Doyle</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 10:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 15:28:00 GMT</lastBuildDate>
 
     <itunes:author>Patrick Doyle</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://patrickcdoyle.github.io/listening-list/IMG_5818.jpeg"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>You Are Not Broken, You Are Dysregulated</title>
+      <description>Maya and Theo unpack George Ferman's viral argument that much of what looks like ADHD is a phone-built dopamine tolerance problem — the recalibration protocol, where the science is thin, and the 350-dollar program waiting at the end.</description>
+      <itunes:summary>Maya and Theo unpack George Ferman's viral argument that much of what looks like ADHD is a phone-built dopamine tolerance problem — the recalibration protocol, where the science is thin, and the 350-dollar program waiting at the end.</itunes:summary>
+      <itunes:author>Patrick Doyle</itunes:author>
+      <pubDate>Thu, 15 Oct 2026 15:28:00 GMT</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/557637597430018/d3873922-c9a8-5e6a-bd84-17c89484f48c/ep-913d89c3-ee4e-40ae-93e3-4932b4852e2c.mp3" length="4677733" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-913d89c3-ee4e-40ae-93e3-4932b4852e2c</guid>
+      <itunes:duration>9:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 
     <item>
       <title>How to Build Wealth as a Career Person</title>
