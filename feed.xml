@@ -10,7 +10,7 @@
     <description>Papers Patrick is reading, turned into two-host podcast episodes. In each episode, Alex and Jordan unpack one paper — what it argues, how the argument works, and where it is vulnerable.</description>
     <language>en-us</language>
     <copyright>Patrick Doyle</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 18:04:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 19:03:59 GMT</lastBuildDate>
 
     <itunes:author>Patrick Doyle</itunes:author>
     <itunes:owner>
@@ -24,6 +24,54 @@
     <itunes:image href="https://patrickcdoyle.github.io/listening-list/IMG_5818.jpeg"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>Analysis and Reporting: Stop a True Number Becoming a False Claim</title>
+      <description>Alex and Jordan unpack the analysis and reporting chapter: odds ratios that misled the news, average marginal effects in plain percentage points, correcting for sixty tests at once, driver analysis that credits the wrong feature, and segments that survive contact with real users.</description>
+      <itunes:summary>Alex and Jordan unpack the analysis and reporting chapter: odds ratios that misled the news, average marginal effects in plain percentage points, correcting for sixty tests at once, driver analysis that credits the wrong feature, and segments that survive contact with real users.</itunes:summary>
+      <itunes:author>Patrick Doyle</itunes:author>
+      <pubDate>Tue, 27 Oct 2026 19:03:59 GMT</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/557637597430018/d3873922-c9a8-5e6a-bd84-17c89484f48c/ep-d217217c-50d1-4a74-b735-ca5a9d4b192c.mp3" length="13286437" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-d217217c-50d1-4a74-b735-ca5a9d4b192c</guid>
+      <itunes:duration>27:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Weighting and Variance Estimation: The Sample Has to Add Up</title>
+      <description>Maya and Theo unpack the weighting and variance estimation chapter: why a raw 84 percent satisfaction reading was 16 points too optimistic, how raking works, what weights cost in precision, and the one panelist whose weight swung a national poll.</description>
+      <itunes:summary>Maya and Theo unpack the weighting and variance estimation chapter: why a raw 84 percent satisfaction reading was 16 points too optimistic, how raking works, what weights cost in precision, and the one panelist whose weight swung a national poll.</itunes:summary>
+      <itunes:author>Patrick Doyle</itunes:author>
+      <pubDate>Tue, 27 Oct 2026 18:49:47 GMT</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/557637597430018/d3873922-c9a8-5e6a-bd84-17c89484f48c/ep-bd33557d-b273-4f14-9981-54fc8b74f24b.mp3" length="12207589" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-bd33557d-b273-4f14-9981-54fc8b74f24b</guid>
+      <itunes:duration>25:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Sampling, Fielding, and Data Quality: Size Does Not Fix Selection</title>
+      <description>Alex and Jordan unpack the sampling, fielding, and data quality chapter: the Literary Digest's 2.4-million-ballot miss, why precision is set by your smallest group, and how to tell a good sample from a big one.</description>
+      <itunes:summary>Alex and Jordan unpack the sampling, fielding, and data quality chapter: the Literary Digest's 2.4-million-ballot miss, why precision is set by your smallest group, and how to tell a good sample from a big one.</itunes:summary>
+      <itunes:author>Patrick Doyle</itunes:author>
+      <pubDate>Tue, 27 Oct 2026 18:41:57 GMT</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/557637597430018/d3873922-c9a8-5e6a-bd84-17c89484f48c/ep-36e7adc2-de6a-4e95-a5e5-d9b0ac014287.mp3" length="11616421" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-36e7adc2-de6a-4e95-a5e5-d9b0ac014287</guid>
+      <itunes:duration>24:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Survey Design and Measurement: Every Number Starts as a Question</title>
+      <description>Maya and Theo unpack the survey design and measurement chapter: how respondents build answers, why one verb moved a result 21 points, the UX instrument shelf from SUS to NPS, and how to prove a scale measures anything.</description>
+      <itunes:summary>Maya and Theo unpack the survey design and measurement chapter: how respondents build answers, why one verb moved a result 21 points, the UX instrument shelf from SUS to NPS, and how to prove a scale measures anything.</itunes:summary>
+      <itunes:author>Patrick Doyle</itunes:author>
+      <pubDate>Tue, 27 Oct 2026 18:32:59 GMT</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/557637597430018/d3873922-c9a8-5e6a-bd84-17c89484f48c/ep-fadd1ed3-a2c4-47d0-936a-84aecd096446.mp3" length="13639141" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-fadd1ed3-a2c4-47d0-936a-84aecd096446</guid>
+      <itunes:duration>28:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 
     <item>
       <title>How to Build Your Dream Life</title>
